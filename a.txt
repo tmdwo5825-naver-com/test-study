@@ -1,0 +1,2 @@
+get("hello")
+string return "hello world";
