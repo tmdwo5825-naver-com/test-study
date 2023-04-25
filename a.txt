@@ -1,2 +1,4 @@
 get("hello")
 string return "hello world";
+var =  "what";
+print(var)
